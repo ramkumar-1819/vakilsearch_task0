@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vakilsearch_task0/static/css/main.3fa3b249.chunk.css",
+    "main.js": "/vakilsearch_task0/static/js/main.0da90cbf.chunk.js",
+    "main.js.map": "/vakilsearch_task0/static/js/main.0da90cbf.chunk.js.map",
+    "runtime-main.js": "/vakilsearch_task0/static/js/runtime-main.4f330b97.js",
+    "runtime-main.js.map": "/vakilsearch_task0/static/js/runtime-main.4f330b97.js.map",
+    "static/js/2.3820b628.chunk.js": "/vakilsearch_task0/static/js/2.3820b628.chunk.js",
+    "static/js/2.3820b628.chunk.js.map": "/vakilsearch_task0/static/js/2.3820b628.chunk.js.map",
+    "static/js/3.ec6ecffd.chunk.js": "/vakilsearch_task0/static/js/3.ec6ecffd.chunk.js",
+    "static/js/3.ec6ecffd.chunk.js.map": "/vakilsearch_task0/static/js/3.ec6ecffd.chunk.js.map",
+    "index.html": "/vakilsearch_task0/index.html",
+    "static/css/main.3fa3b249.chunk.css.map": "/vakilsearch_task0/static/css/main.3fa3b249.chunk.css.map",
+    "static/js/2.3820b628.chunk.js.LICENSE.txt": "/vakilsearch_task0/static/js/2.3820b628.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f330b97.js",
+    "static/js/2.3820b628.chunk.js",
+    "static/css/main.3fa3b249.chunk.css",
+    "static/js/main.0da90cbf.chunk.js"
+  ]
+}
